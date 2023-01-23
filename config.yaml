@@ -1,0 +1,12 @@
+BOT_TOKEN: 
+- masukan token discord disini
+
+CHANNEL_ID:
+- masukan channel id disini
+
+MODE: quote
+REPLY: Y
+SIMSIMI_LANG: en
+DELAY: 15
+DEL_AFTER: 
+REPOST_LAST_CHAT: 100
